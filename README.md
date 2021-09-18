@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+
+# Here you can find the desgin of this project for the BeCode formation
+
 # The Hill - 05 - The forum
 
 > PHP/MySQL Bulletin Board Project
@@ -91,12 +93,3 @@ Within these environment, you have an instance of **phpMyAdmin**, a _database ma
 Be sure to document everything, that _anyone_ on the team can explain and understand _every_ part of the project.
 
 Communication is the key.
-
-### Deployment & deadline
-
-The project needs to be _published_ on [Heroku](www.heroku.com) (you have free credits to use on Heroku with your **GitHub Student Pack**).
-
-At the deadline of **20/09/2021 at 08h59**, we need to receive an **email**, to `nick@becode.org` **and** `tanya@becode.org`, with the _URL of your repository_ and the _URL of your project_ on Heroku.
-=======
-# Hello and Welcome !
->>>>>>> development
